@@ -1,0 +1,13 @@
+{
+  "name": "@forge-skill/game-theory-skill",
+  "version": "1.0.0",
+  "description": "博弈论（Game Theory）— forge-skill 锻造的结构化思维工具",
+  "main": "SKILL.md",
+  "skills": {
+    "name": "game-theory-skill",
+    "files": ["SKILL.md"]
+  },
+  "keywords": ["forge-skill", "skill", "methodology", "agent-skills", "thinking-tool", "game-theory", "博弈论", "strategy", "competition", "nash-equilibrium"],
+  "license": "MIT",
+  "repository": "https://github.com/peterfei/forge-skill-game-theory-skill"
+}
